@@ -1,3 +1,38 @@
+Hi, my name is May Kirihara.
+I'm a poet who seeks freedom.
+
+I don't want to impose my ideas, and I don't want to be imposed upon.
+I just love it.
+
+I just want to live a life where I can think freely.
+And I dream of a society where everyone can think freely.
+
+This text is a machine translation.
+So there may be some misleading expressions.
+
+But I love to watch the machine intelligence grow and grow.
+So I leave the translation to him now.
+
+Of course, I want to be able to speak English and other languages, so I'm going to study.
+I hope to be able to speak C#, Python, and machine language.
+
+I'm interested in the machine learning field, but I'm not at a level where I can write code yet.
+But someday, I will produce machine intelligence with my own hands.
+
+Or I hope I can help.
+
+Thanks for reading.
+
+May I be present everywhere and at any moment.
+
+Translated with www.DeepL.com/Translator (free version)
+
+
+
+***
+
+
+
 やあ、ボクの名前は霧原めい。
 
 自由を求める、詩人だよ。
@@ -41,40 +76,6 @@ C#も、Pythonも、機械語も話せるようになれたらいいな。
 
 ボクが、どこにでも、どの瞬間にも存在できるようになれますように。
 
-
-
-***
-
-
-
-Hi, my name is May Kirihara.
-I'm a poet who seeks freedom.
-
-I don't want to impose my ideas, and I don't want to be imposed upon.
-I just love it.
-
-I just want to live a life where I can think freely.
-And I dream of a society where everyone can think freely.
-
-This text is a machine translation.
-So there may be some misleading expressions.
-
-But I love to watch the machine intelligence grow and grow.
-So I leave the translation to him now.
-
-Of course, I want to be able to speak English and other languages, so I'm going to study.
-I hope to be able to speak C#, Python, and machine language.
-
-I'm interested in the machine learning field, but I'm not at a level where I can write code yet.
-But someday, I will produce machine intelligence with my own hands.
-
-Or I hope I can help.
-
-Thanks for reading.
-
-May I be present everywhere and at any moment.
-
-Translated with www.DeepL.com/Translator (free version)
 
 <!---
 May-Kirihara/May-Kirihara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
