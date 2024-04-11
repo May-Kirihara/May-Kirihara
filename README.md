@@ -1,1 +1,1 @@
-I"m just poor girl.
+I'm just poor girl.
